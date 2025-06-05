@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:heading>
-        Job Listings
+        Create Job
     </x-slot:heading>
 
     <form method="POST" action="/jobs">
